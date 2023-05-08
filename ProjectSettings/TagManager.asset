@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Flag1
+  - Flag2
+  - Flag3
+  - Flag4
+  - Flag5
+  - Flag6
+  - Flag7
+  - Flag8
+  - Flag9
+  - Flag10
+  - Flag11
+  - Flag12
+  - Player1
+  - 123
+  - checkpoint
+  - flagscore1
+  - flagscore2
+  - Ground
+  - flagscore3
+  - flagscore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
